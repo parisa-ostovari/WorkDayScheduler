@@ -32,8 +32,34 @@ textarea {
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;
+  height: 90px;
+  border: 1px solid black;
+}
+
+.col-2 {
+  border: 1px solid black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-9 {
+  border: 1px solid black;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: rgb(219, 217, 217);
+}
+
+.col-1 {
+  border: 1px solid black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(208, 231, 239);
 }
 
 .hour {
