@@ -37,4 +37,4 @@ https://github.com/parisa-ostovari/WorkDayScheduler
 Here is the snapshot of how the website should look like:
  
  When first opened:
-![alt="Password Generator Screenshot"](./images/SchedulerScreenshot.png)
+![alt="Work Day Scheduler Screenshot"](./images/SchedulerScreenshot.png)
