@@ -27,7 +27,7 @@ THEN the saved events persist
 
 ## Link to Deployed Application
 
-hhttps://parisa-ostovari.github.io/WorkDayScheduler/
+https://parisa-ostovari.github.io/WorkDayScheduler/
 
 ## Link to GitHub Repository
 
